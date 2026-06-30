@@ -75,13 +75,13 @@ export function ObraLift() {
             <div
               key={f.title}
               data-card
-              className="group rounded-xl bg-white/5 border border-white/10 p-6 transition-all duration-300 hover:bg-white/10 hover:border-primary-green/30"
+              className="group rounded-xl bg-charcoal/80 border border-white/10 p-6 transition-all duration-300 hover:bg-charcoal/90 hover:border-primary-green/30"
             >
-              <div className="w-14 h-14 rounded-xl bg-primary-green/15 text-light-green flex items-center justify-center mb-5 group-hover:bg-primary-green/25 transition-colors">
+              <div className="w-14 h-14 rounded-xl bg-primary-green/20 text-light-green flex items-center justify-center mb-5 group-hover:bg-primary-green/30 transition-colors">
                 {icons[f.icon]}
               </div>
               <h3 className="text-lg font-semibold text-white mb-2">{f.title}</h3>
-              <p className="text-sm text-white/60 leading-relaxed">{f.description}</p>
+              <p className="text-sm text-white/70 leading-relaxed">{f.description}</p>
             </div>
           ))}
         </div>
