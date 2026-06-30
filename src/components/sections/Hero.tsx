@@ -55,7 +55,7 @@ export function Hero() {
                         : 'opacity-0 translate-y-4 pointer-events-none'
                     }`}
                   >
-                    <h2 className="text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl font-bold text-white leading-[1.15] tracking-tight text-balance">
+                    <h2 className="text-lg sm:text-xl md:text-2xl lg:text-3xl font-bold text-white leading-[1.15] tracking-tight text-balance">
                       {phrase}
                     </h2>
                   </div>
