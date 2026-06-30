@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420">
+  <title>ObraSuite Logo Family</title>
+  <desc>Vector logo generated for ObraSuite branding. Primary charcoal #3A3E40.</desc>
+  <defs>
+    <style><![CDATA[
+      .char { fill:#3A3E40; stroke:#3A3E40; }
+      .line { fill:none; stroke:#3A3E40; stroke-width:12; stroke-linecap:round; stroke-linejoin:round; }
+      .thin { fill:none; stroke:#3A3E40; stroke-width:9; stroke-linecap:round; stroke-linejoin:round; }
+      .txt { font-family:'DejaVu Sans', 'Arial Rounded MT Bold', Arial, sans-serif; font-weight:700; font-size:120px; }
+    ]]></style>
+  </defs>
+  <g transform="translate(62,50)">
+    <rect x="10" y="0" width="130" height="230" rx="18" fill="#4C9206"/>
+    <rect x="23" y="22" width="104" height="168" rx="6" fill="#fff"/>
+    <rect x="57" y="205" width="46" height="12" rx="6" fill="#fff"/>
+    <path d="M38 55 v-20 h20 M112 35 h20 v20 M38 145 v20 h20 M132 145 v20 h-20" stroke="#4C9206" stroke-width="8" fill="none" stroke-linecap="round"/>
+    <path d="M55 160 L55 115 L77 100 L77 160 Z" fill="#3A3E40"/>
+    <path d="M82 160 L82 70 L106 56 L106 160 Z" fill="#3A3E40"/>
+    <path d="M111 160 L111 96 L130 108 L130 160 Z" fill="#3A3E40"/>
+    <rect x="105" y="145" width="27" height="24" fill="#4C9206"/>
+    <rect x="133" y="145" width="27" height="24" fill="#4C9206"/>
+    <rect x="119" y="118" width="27" height="24" fill="#4C9206"/>
+    <path d="M119 162 v-10 M115 156 l4-4 4 4 M147 162 v-10 M143 156 l4-4 4 4 M133 135 v-10 M129 129 l4-4 4 4" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round"/>
+  </g>
+  <text class="txt" x="350" y="250"><tspan fill="#3A3E40">Obra</tspan><tspan fill="#4C9206">Lens</tspan></text>
+  <!-- ObraLens | Primary Charcoal #3A3E40 | Accent #4C9206 | Bodega, inventario y control de materiales -->
+</svg>

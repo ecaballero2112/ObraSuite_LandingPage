@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1520" height="420" viewBox="0 0 1520 420">
+  <title>ObraSuite Logo Family</title>
+  <desc>Vector logo generated for ObraSuite branding. Primary charcoal #3A3E40.</desc>
+  <defs>
+    <style><![CDATA[
+      .char { fill:#3A3E40; stroke:#3A3E40; }
+      .line { fill:none; stroke:#3A3E40; stroke-width:12; stroke-linecap:round; stroke-linejoin:round; }
+      .thin { fill:none; stroke:#3A3E40; stroke-width:9; stroke-linecap:round; stroke-linejoin:round; }
+      .txt { font-family:'DejaVu Sans', 'Arial Rounded MT Bold', Arial, sans-serif; font-weight:700; font-size:120px; }
+    ]]></style>
+  </defs>
+  <g transform="translate(62,62)">
+    <path d="M25 0 H145 L190 45 V210 H25 Z" fill="none" stroke="#3A3E40" stroke-width="12" stroke-linejoin="round"/>
+    <path d="M145 0 V45 H190" fill="none" stroke="#3A3E40" stroke-width="12" stroke-linejoin="round"/>
+    <path d="M58 64 H135 M58 95 H150 M58 126 H122" stroke="#3A3E40" stroke-width="9" stroke-linecap="round"/>
+    <path d="M69 176 l42 -35 l29 27 l-42 35 z" fill="#7A42C8" opacity=".95"/>
+    <path d="M104 166 C123 146 136 149 151 164 L168 181" fill="none" stroke="#3A3E40" stroke-width="10" stroke-linecap="round"/>
+    <path d="M89 188 l29 28 M104 177 l35 35 M121 174 l30 30" stroke="#3A3E40" stroke-width="9" stroke-linecap="round"/>
+    <path d="M156 159 l26 22" stroke="#7A42C8" stroke-width="20" stroke-linecap="round"/>
+  </g>
+  <text class="txt" x="350" y="250"><tspan fill="#3A3E40">Obra</tspan><tspan fill="#7A42C8">Contract</tspan></text>
+  <!-- ObraContract | Primary Charcoal #3A3E40 | Accent #7A42C8 | Contratos, subcontratos, adicionales y claims -->
+</svg>

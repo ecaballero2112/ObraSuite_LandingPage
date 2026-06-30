@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1520" height="420" viewBox="0 0 1520 420">
+  <title>ObraSuite Logo Family</title>
+  <desc>Vector logo generated for ObraSuite branding. Primary charcoal #3A3E40.</desc>
+  <defs>
+    <style><![CDATA[
+      .char { fill:#3A3E40; stroke:#3A3E40; }
+      .line { fill:none; stroke:#3A3E40; stroke-width:12; stroke-linecap:round; stroke-linejoin:round; }
+      .thin { fill:none; stroke:#3A3E40; stroke-width:9; stroke-linecap:round; stroke-linejoin:round; }
+      .txt { font-family:'DejaVu Sans', 'Arial Rounded MT Bold', Arial, sans-serif; font-weight:700; font-size:120px; }
+    ]]></style>
+  </defs>
+  <g transform="translate(60,70)">
+    <rect x="0" y="0" width="205" height="160" rx="14" fill="none" stroke="#3A3E40" stroke-width="10"/>
+    <path d="M0 36 H205" stroke="#3A3E40" stroke-width="10"/>
+    <circle cx="24" cy="18" r="6" fill="#3A3E40"/><circle cx="48" cy="18" r="6" fill="#3A3E40"/><circle cx="72" cy="18" r="6" fill="#3A3E40"/>
+    <path d="M55 75 A45 45 0 1 0 100 120 L100 75 Z" fill="#3A3E40"/>
+    <path d="M105 75 A45 45 0 0 0 60 30 L60 75 Z" fill="#D64D86"/>
+    <rect x="135" y="68" width="12" height="62" fill="#D64D86"/><rect x="158" y="94" width="12" height="36" fill="#D64D86"/><rect x="181" y="48" width="12" height="82" fill="#D64D86"/>
+    <path d="M130 35 H152 M170 35 H192 M130 52 H147 M165 52 H192" stroke="#D64D86" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <text class="txt" x="350" y="250"><tspan fill="#3A3E40">Obra</tspan><tspan fill="#D64D86">Board</tspan></text>
+  <!-- ObraBoard | Primary Charcoal #3A3E40 | Accent #D64D86 | Dashboard ejecutivo y reportabilidad gerencial -->
+</svg>

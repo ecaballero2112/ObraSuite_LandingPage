@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420">
+  <title>ObraSuite Logo Family</title>
+  <desc>Vector logo generated for ObraSuite branding. Primary charcoal #3A3E40.</desc>
+  <defs>
+    <style><![CDATA[
+      .char { fill:#3A3E40; stroke:#3A3E40; }
+      .line { fill:none; stroke:#3A3E40; stroke-width:12; stroke-linecap:round; stroke-linejoin:round; }
+      .thin { fill:none; stroke:#3A3E40; stroke-width:9; stroke-linecap:round; stroke-linejoin:round; }
+      .txt { font-family:'DejaVu Sans', 'Arial Rounded MT Bold', Arial, sans-serif; font-weight:700; font-size:120px; }
+    ]]></style>
+  </defs>
+  <g transform="translate(65,68)">
+    <path d="M50 15 H180 V170 H50 Q15 170 15 135 V50 Q15 15 50 15 Z" fill="none" stroke="#3A3E40" stroke-width="12" stroke-linejoin="round"/>
+    <path d="M50 15 Q12 15 12 65 V210 Q12 234 36 234 Q59 234 59 210 Q59 190 39 190 Q20 190 20 210" fill="none" stroke="#3A3E40" stroke-width="12" stroke-linecap="round"/>
+    <path d="M93 145 V86 L124 64 L124 145 M124 85 L150 103 V145" fill="none" stroke="#1596A3" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M78 160 H165 M78 178 H165 M78 196 H120" stroke="#1596A3" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <text class="txt" x="350" y="250"><tspan fill="#3A3E40">Obra</tspan><tspan fill="#1596A3">Docs</tspan></text>
+  <!-- ObraDocs | Primary Charcoal #3A3E40 | Accent #1596A3 | Documentos técnicos, planos, RFIs y submittals -->
+</svg>

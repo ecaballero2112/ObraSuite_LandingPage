@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420">
+  <title>ObraSuite Logo Family</title>
+  <desc>Vector logo generated for ObraSuite branding. Primary charcoal #3A3E40.</desc>
+  <defs>
+    <style><![CDATA[
+      .char { fill:#3A3E40; stroke:#3A3E40; }
+      .line { fill:none; stroke:#3A3E40; stroke-width:12; stroke-linecap:round; stroke-linejoin:round; }
+      .thin { fill:none; stroke:#3A3E40; stroke-width:9; stroke-linecap:round; stroke-linejoin:round; }
+      .txt { font-family:'DejaVu Sans', 'Arial Rounded MT Bold', Arial, sans-serif; font-weight:700; font-size:120px; }
+    ]]></style>
+  </defs>
+  <g transform="translate(52,70)">
+    <rect x="45" y="180" width="190" height="38" rx="19" fill="none" stroke="#3A3E40" stroke-width="10"/>
+    <circle cx="76" cy="199" r="7" fill="#3A3E40"/><circle cx="204" cy="199" r="7" fill="#3A3E40"/>
+    <path d="M40 165 L100 66 L164 120" fill="none" stroke="#3A3E40" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M102 66 L146 18" fill="none" stroke="#3A3E40" stroke-width="12" stroke-linecap="round"/>
+    <circle cx="102" cy="66" r="12" fill="#fff" stroke="#D8A31A" stroke-width="8"/><circle cx="146" cy="18" r="9" fill="#fff" stroke="#D8A31A" stroke-width="7"/>
+    <path d="M18 167 Q43 138 72 166 Q55 190 17 190 Z" fill="#3A3E40"/>
+    <path d="M128 108 H190 L220 150 V180 H120 Z" fill="none" stroke="#3A3E40" stroke-width="10" stroke-linejoin="round"/>
+    <path d="M192 140 H242 Q256 140 256 154 V190 H192 Z" fill="#D8A31A"/>
+    <path d="M207 161 H236 M207 176 H231" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <text class="txt" x="350" y="250"><tspan fill="#3A3E40">Obra</tspan><tspan fill="#D8A31A">Equip</tspan></text>
+  <!-- ObraEquip | Primary Charcoal #3A3E40 | Accent #D8A31A | Equipos, maquinaria, horómetros y mantenciones -->
+</svg>

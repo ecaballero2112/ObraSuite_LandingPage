@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1520" height="420" viewBox="0 0 1520 420">
+  <title>ObraSuite Logo Family</title>
+  <desc>Vector logo generated for ObraSuite branding. Primary charcoal #3A3E40.</desc>
+  <defs>
+    <style><![CDATA[
+      .char { fill:#3A3E40; stroke:#3A3E40; }
+      .line { fill:none; stroke:#3A3E40; stroke-width:12; stroke-linecap:round; stroke-linejoin:round; }
+      .thin { fill:none; stroke:#3A3E40; stroke-width:9; stroke-linecap:round; stroke-linejoin:round; }
+      .txt { font-family:'DejaVu Sans', 'Arial Rounded MT Bold', Arial, sans-serif; font-weight:700; font-size:120px; }
+    ]]></style>
+  </defs>
+  <g transform="translate(72,55)">
+    <path d="M45 30 H140 Q155 30 155 45 V190 Q155 205 140 205 H22 Q7 205 7 190 V45 Q7 30 22 30 H45" fill="none" stroke="#3A3E40" stroke-width="12"/>
+    <path d="M58 30 Q58 3 83 3 Q108 3 108 30 H58 Z" fill="#3A3E40"/>
+    <path d="M38 80 l18 18 34-36 M38 122 l18 18 34-36 M38 164 l18 18 34-36" fill="none" stroke="#3A3E40" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="150" cy="172" r="42" fill="#1AA6B7"/>
+    <path d="M130 172 l16 16 30-35" fill="none" stroke="#fff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text class="txt" x="350" y="250"><tspan fill="#3A3E40">Obra</tspan><tspan fill="#1AA6B7">Control</tspan></text>
+  <!-- ObraControl | Primary Charcoal #3A3E40 | Accent #1AA6B7 | Control de obra, avance físico, reportes diarios y productividad -->
+</svg>

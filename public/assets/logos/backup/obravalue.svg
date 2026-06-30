@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420">
+  <title>ObraSuite Logo Family</title>
+  <desc>Vector logo generated for ObraSuite branding. Primary charcoal #3A3E40.</desc>
+  <defs>
+    <style><![CDATA[
+      .char { fill:#3A3E40; stroke:#3A3E40; }
+      .line { fill:none; stroke:#3A3E40; stroke-width:12; stroke-linecap:round; stroke-linejoin:round; }
+      .thin { fill:none; stroke:#3A3E40; stroke-width:9; stroke-linecap:round; stroke-linejoin:round; }
+      .txt { font-family:'DejaVu Sans', 'Arial Rounded MT Bold', Arial, sans-serif; font-weight:700; font-size:120px; }
+    ]]></style>
+  </defs>
+  <g transform="translate(62,85)">
+    <rect x="0" y="112" width="34" height="70" fill="#3A3E40"/>
+    <rect x="50" y="78" width="34" height="104" fill="#3A3E40"/>
+    <rect x="100" y="38" width="34" height="144" fill="#3A3E40"/>
+    <path d="M0 72 C52 42 100 18 168 0" fill="none" stroke="#6E35B9" stroke-width="12" stroke-linecap="round"/>
+    <path d="M164 0 l-14 4 l10 13 Z" fill="#6E35B9"/>
+    <circle cx="138" cy="158" r="34" fill="#6E35B9"/>
+    <text x="138" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#fff">$</text>
+  </g>
+  <text class="txt" x="350" y="250"><tspan fill="#3A3E40">Obra</tspan><tspan fill="#6E35B9">Value</tspan></text>
+  <!-- ObraValue | Primary Charcoal #3A3E40 | Accent #6E35B9 | Avance económico, estados de pago, margen y valor ganado -->
+</svg>

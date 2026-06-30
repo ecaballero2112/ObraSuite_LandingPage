@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420">
+  <title>ObraSuite Logo Family</title>
+  <desc>Vector logo generated for ObraSuite branding. Primary charcoal #3A3E40.</desc>
+  <defs>
+    <style><![CDATA[
+      .char { fill:#3A3E40; stroke:#3A3E40; }
+      .line { fill:none; stroke:#3A3E40; stroke-width:12; stroke-linecap:round; stroke-linejoin:round; }
+      .thin { fill:none; stroke:#3A3E40; stroke-width:9; stroke-linecap:round; stroke-linejoin:round; }
+      .txt { font-family:'DejaVu Sans', 'Arial Rounded MT Bold', Arial, sans-serif; font-weight:700; font-size:120px; }
+    ]]></style>
+  </defs>
+  <g transform="translate(72,52)">
+    <path d="M95 5 L180 35 V95 C180 154 144 198 95 222 C46 198 10 154 10 95 V35 Z" fill="none" stroke="#3A3E40" stroke-width="12" stroke-linejoin="round"/>
+    <path d="M95 36 L150 55 V98 C150 133 127 165 95 183 C63 165 40 133 40 98 V55 Z" fill="none" stroke="#E36B0A" stroke-width="10" stroke-linejoin="round"/>
+    <path d="M68 105 l24 24 46-58" fill="none" stroke="#E36B0A" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text class="txt" x="350" y="250"><tspan fill="#3A3E40">Obra</tspan><tspan fill="#E36B0A">QA/QC</tspan></text>
+  <!-- ObraQAQC | Primary Charcoal #3A3E40 | Accent #E36B0A | Calidad, protocolos, inspecciones y dossier -->
+</svg>

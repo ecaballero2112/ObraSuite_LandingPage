@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420">
+  <title>ObraSuite Logo Family</title>
+  <desc>Vector logo generated for ObraSuite branding. Primary charcoal #3A3E40.</desc>
+  <defs>
+    <style><![CDATA[
+      .char { fill:#3A3E40; stroke:#3A3E40; }
+      .line { fill:none; stroke:#3A3E40; stroke-width:12; stroke-linecap:round; stroke-linejoin:round; }
+      .thin { fill:none; stroke:#3A3E40; stroke-width:9; stroke-linecap:round; stroke-linejoin:round; }
+      .txt { font-family:'DejaVu Sans', 'Arial Rounded MT Bold', Arial, sans-serif; font-weight:700; font-size:120px; }
+    ]]></style>
+  </defs>
+  <g transform="translate(70,48)">
+    <path d="M26 84 Q45 25 98 25 Q151 25 170 84 Z" fill="#3A3E40"/>
+    <rect x="86" y="0" width="24" height="52" rx="8" fill="#3A3E40"/>
+    <path d="M6 92 H190" stroke="#3A3E40" stroke-width="16" stroke-linecap="round"/>
+    <path d="M98 92 L170 118 V168 C170 211 138 239 98 256 C58 239 26 211 26 168 V118 Z" fill="none" stroke="#3A3E40" stroke-width="12" stroke-linejoin="round"/>
+    <path d="M98 116 L144 132 V167 C144 190 125 210 98 223 C71 210 52 190 52 167 V132 Z" fill="none" stroke="#2B6FCC" stroke-width="10"/>
+    <path d="M72 165 l20 20 38-46" fill="none" stroke="#2B6FCC" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text class="txt" x="350" y="250"><tspan fill="#3A3E40">Obra</tspan><tspan fill="#2B6FCC">Safe</tspan></text>
+  <!-- ObraSafe | Primary Charcoal #3A3E40 | Accent #2B6FCC | Seguridad, AST, permisos y hallazgos -->
+</svg>

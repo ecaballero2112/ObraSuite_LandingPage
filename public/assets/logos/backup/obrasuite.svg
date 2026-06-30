@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420">
+  <title>ObraSuite Logo Family</title>
+  <desc>Vector logo generated for ObraSuite branding. Primary charcoal #3A3E40.</desc>
+  <defs>
+    <style><![CDATA[
+      .char { fill:#3A3E40; stroke:#3A3E40; }
+      .line { fill:none; stroke:#3A3E40; stroke-width:12; stroke-linecap:round; stroke-linejoin:round; }
+      .thin { fill:none; stroke:#3A3E40; stroke-width:9; stroke-linecap:round; stroke-linejoin:round; }
+      .txt { font-family:'DejaVu Sans', 'Arial Rounded MT Bold', Arial, sans-serif; font-weight:700; font-size:120px; }
+    ]]></style>
+  </defs>
+  <g transform="translate(55,65) scale(1.0)">
+    <path d="M95 8 L190 62 L190 174 L95 228 L0 174 L0 62 Z" fill="none" stroke="#3A3E40" stroke-width="12" stroke-linejoin="round"/>
+    <path d="M0 174 L95 228 L190 174" fill="none" stroke="#6F2DBD" stroke-width="12" stroke-linejoin="round"/>
+    <path d="M38 152 L38 104 L70 82 L70 152 Z" fill="#3A3E40"/>
+    <path d="M78 152 L78 54 L111 36 L111 152 Z" fill="#3A3E40"/>
+    <path d="M119 152 L119 76 L151 94 L151 152 Z" fill="#3A3E40"/>
+    <path d="M88 70 L108 58 M88 98 L108 86 M88 126 L108 114" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
+    <g transform="translate(128,132)">
+      <rect x="0" y="0" width="38" height="32" rx="2" fill="#6F2DBD"/>
+      <rect x="42" y="0" width="38" height="32" rx="2" fill="#6F2DBD"/>
+      <rect x="21" y="-36" width="38" height="32" rx="2" fill="#6F2DBD"/>
+      <path d="M19 21 L19 9 M14 13 L19 8 L24 13" stroke="#fff" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M61 21 L61 9 M56 13 L61 8 L66 13" stroke="#fff" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M40  -15 L40 -27 M35 -23 L40 -28 L45 -23" stroke="#fff" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="0" y="38" width="80" height="12" rx="2" fill="#6F2DBD"/>
+      <rect x="8" y="40" width="23" height="8" rx="1" fill="#fff" opacity=".85"/>
+      <rect x="49" y="40" width="23" height="8" rx="1" fill="#fff" opacity=".85"/>
+    </g>
+  </g>
+  <text class="txt" x="330" y="250"><tspan fill="#3A3E40">Obra</tspan><tspan fill="#6F2DBD">Suite</tspan></text>
+  <!-- ObraSuite | Primary Charcoal #3A3E40 | Accent #6F2DBD | Sistema operativo de gestión para constructoras -->
+</svg>

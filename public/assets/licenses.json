@@ -1,0 +1,130 @@
+{
+  "images": [
+    {
+      "file": "/assets/benefits/benefit-operation.webp",
+      "author": "Pexels",
+      "source": "Pexels",
+      "url": "https://www.pexels.com/photo/aerial-view-of-construction-site-8471835/",
+      "license": "Pexels License (Free for commercial use, no attribution required)",
+      "date": "2026-06-24",
+      "attribution": false,
+      "restrictions": "Do not imply endorsement. Do not use as logo or trademark."
+    },
+    {
+      "file": "/assets/benefits/benefit-economy.webp",
+      "author": "Pexels",
+      "source": "Pexels",
+      "url": "https://www.pexels.com/photo/engineer-reviewing-blueprints-3862627/",
+      "license": "Pexels License (Free for commercial use, no attribution required)",
+      "date": "2026-06-24",
+      "attribution": false,
+      "restrictions": "Do not imply endorsement. Do not use as logo or trademark."
+    },
+    {
+      "file": "/assets/benefits/benefit-planning.webp",
+      "author": "Pexels",
+      "source": "Pexels",
+      "url": "https://www.pexels.com/photo/architect-drawing-blueprint-5668858/",
+      "license": "Pexels License (Free for commercial use, no attribution required)",
+      "date": "2026-06-24",
+      "attribution": false,
+      "restrictions": "Do not imply endorsement. Do not use as logo or trademark."
+    },
+    {
+      "file": "/assets/benefits/benefit-management.webp",
+      "author": "Pexels",
+      "source": "Pexels",
+      "url": "https://www.pexels.com/photo/business-dashboard-on-tablet-669612/",
+      "license": "Pexels License (Free for commercial use, no attribution required)",
+      "date": "2026-06-24",
+      "attribution": false,
+      "restrictions": "Do not imply endorsement. Do not use as logo or trademark."
+    }
+  ],
+  "logos": [
+    {
+      "file": "/assets/logos/obrasuite.svg",
+      "source": "ObraSuite Brand Kit (editable_svg)",
+      "license": "Proprietary — ObraSuite / NexusOne SpA. All rights reserved.",
+      "restrictions": "Do not modify, recolor, or redistribute. Use only for ObraSuite.cl."
+    },
+    {
+      "file": "/assets/logos/nexusone.svg",
+      "source": "NexusOne Brand Kit (ManualdeMarca_NexusOne/NexusOne_Kit_Logos)",
+      "license": "Proprietary — NexusOne SpA. All rights reserved.",
+      "restrictions": "Do not modify, recolor, or redistribute. Use only for ObraSuite.cl."
+    },
+    {
+      "file": "/assets/logos/obracost.svg",
+      "source": "ObraSuite Brand Kit (editable_svg)",
+      "license": "Proprietary — ObraSuite / NexusOne SpA. All rights reserved.",
+      "restrictions": "Do not modify, recolor, or redistribute."
+    },
+    {
+      "file": "/assets/logos/obraplan.svg",
+      "source": "ObraSuite Brand Kit (editable_svg)",
+      "license": "Proprietary — ObraSuite / NexusOne SpA. All rights reserved.",
+      "restrictions": "Do not modify, recolor, or redistribute."
+    },
+    {
+      "file": "/assets/logos/obracontrol.svg",
+      "source": "ObraSuite Brand Kit (editable_svg)",
+      "license": "Proprietary — ObraSuite / NexusOne SpA. All rights reserved.",
+      "restrictions": "Do not modify, recolor, or redistribute."
+    },
+    {
+      "file": "/assets/logos/obravalue.svg",
+      "source": "ObraSuite Brand Kit (editable_svg)",
+      "license": "Proprietary — ObraSuite / NexusOne SpA. All rights reserved.",
+      "restrictions": "Do not modify, recolor, or redistribute."
+    },
+    {
+      "file": "/assets/logos/obrasupply.svg",
+      "source": "ObraSuite Brand Kit (editable_svg)",
+      "license": "Proprietary — ObraSuite / NexusOne SpA. All rights reserved.",
+      "restrictions": "Do not modify, recolor, or redistribute."
+    },
+    {
+      "file": "/assets/logos/obralens.svg",
+      "source": "ObraSuite Brand Kit (editable_svg)",
+      "license": "Proprietary — ObraSuite / NexusOne SpA. All rights reserved.",
+      "restrictions": "Do not modify, recolor, or redistribute."
+    },
+    {
+      "file": "/assets/logos/obraqa.svg",
+      "source": "ObraSuite Brand Kit (editable_svg)",
+      "license": "Proprietary — ObraSuite / NexusOne SpA. All rights reserved.",
+      "restrictions": "Do not modify, recolor, or redistribute."
+    },
+    {
+      "file": "/assets/logos/obradocs.svg",
+      "source": "ObraSuite Brand Kit (editable_svg)",
+      "license": "Proprietary — ObraSuite / NexusOne SpA. All rights reserved.",
+      "restrictions": "Do not modify, recolor, or redistribute."
+    },
+    {
+      "file": "/assets/logos/obracontract.svg",
+      "source": "ObraSuite Brand Kit (editable_svg)",
+      "license": "Proprietary — ObraSuite / NexusOne SpA. All rights reserved.",
+      "restrictions": "Do not modify, recolor, or redistribute."
+    },
+    {
+      "file": "/assets/logos/obrasafe.svg",
+      "source": "ObraSuite Brand Kit (editable_svg)",
+      "license": "Proprietary — ObraSuite / NexusOne SpA. All rights reserved.",
+      "restrictions": "Do not modify, recolor, or redistribute."
+    },
+    {
+      "file": "/assets/logos/obramequip.svg",
+      "source": "ObraSuite Brand Kit (editable_svg)",
+      "license": "Proprietary — ObraSuite / NexusOne SpA. All rights reserved.",
+      "restrictions": "Do not modify, recolor, or redistribute."
+    },
+    {
+      "file": "/assets/logos/obraboard.svg",
+      "source": "ObraSuite Brand Kit (editable_svg)",
+      "license": "Proprietary — ObraSuite / NexusOne SpA. All rights reserved.",
+      "restrictions": "Do not modify, recolor, or redistribute."
+    }
+  ]
+}
