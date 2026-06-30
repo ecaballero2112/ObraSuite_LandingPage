@@ -33,6 +33,13 @@
     font-family: var(--font-sans), system-ui, sans-serif;
   }
 
+  [data-card],
+  [data-reveal] h2,
+  [data-reveal] h2 + p {
+    opacity: 1;
+    transform: translateX(0);
+  }
+
   ::selection {
     background: var(--primary-green);
     color: white;
