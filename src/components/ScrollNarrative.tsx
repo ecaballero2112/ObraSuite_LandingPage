@@ -26,6 +26,7 @@ export function ScrollNarrative() {
             x: -50,
             opacity: 0,
             duration: 0.8,
+            immediateRender: false,
             ease: 'power3.out',
             scrollTrigger: {
               trigger: heading,
@@ -41,6 +42,7 @@ export function ScrollNarrative() {
             opacity: 0,
             duration: 0.8,
             delay: 0.15,
+            immediateRender: false,
             ease: 'power3.out',
             scrollTrigger: {
               trigger: subtitle,
@@ -56,6 +58,7 @@ export function ScrollNarrative() {
             opacity: 0,
             duration: 0.7,
             stagger: 0.1,
+            immediateRender: false,
             ease: 'power3.out',
             scrollTrigger: {
               trigger: section,
