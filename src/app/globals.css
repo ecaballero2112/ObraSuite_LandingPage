@@ -36,8 +36,7 @@
   [data-card],
   [data-reveal] h2,
   [data-reveal] h2 + p {
-    opacity: 1;
-    transform: translateX(0);
+    opacity: 0.2;
   }
 
   ::selection {
